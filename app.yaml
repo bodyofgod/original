@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 application: index2
 version: 1
+=======
+>>>>>>> origin/master
 runtime: php55
 api_version: 1
 
